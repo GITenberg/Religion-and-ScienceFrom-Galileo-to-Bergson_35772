@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '37893'
     url: http://www.gutenberg.org/2009/agents/37893
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35772#Religion-and-ScienceFrom-Galileo-to-Bergson
 gutenberg_issued: '2011-04-05'
 gutenberg_type: Text
 identifiers:
